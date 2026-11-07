@@ -31,5 +31,6 @@ https://anorak1212.github.io/perdon/
 
 ## Notas
 
+- Efecto de bola de nieve: `createSnowGlobe(G, R.domElement, { count: 900, radius: 30, height: 48 })`. Los copos caen, se posan en el suelo, se remueven al arrastrar rápido y suben en remolino al tocar la escena o sacudir el teléfono. El radio es 30 porque el suelo mide 60 x 60.
 - El icono se generó a partir de `images (1).png` (554 x 554 px), reescalado a los tamaños necesarios.
 - La música es `Subwoofer Lullaby` (C418). Es material con derechos de autor: el repositorio es público, así que se usa solo para compartir el enlace de forma privada. Si el enlace se va a difundir, conviene sustituirla por un tema libre.
